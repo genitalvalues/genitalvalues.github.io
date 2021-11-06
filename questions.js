@@ -40,26 +40,24 @@ questions =
             "I never pee sitting down",
             "When I look down, I can't see passed my genital",
             "I find it difficult to put pants on"
-        ]],[//Democratic-Authoritarian`
+        ]],[//Hard-squishy`
         [//4
-            "Direct democracy is the best form of government",
-            "People should vote issue by issue themselves",
-            "Representatives rarely represent the nation well"
+            "I am afraid my genital will shatter",
+            "My genital can be knocked on like wood",
+            "It looks like I have something in my pocket when I wear pants, even though it's just my genital."
         ],
         [//3
-            "It is important that the government follows the majority opinion, even if it is wrong.",
-            "The more people asked, the better chance there is of reaching the best decision.",
-            "Nobody but me can adequately represent my views"
+            "My genital feels like it could be snapped.",
+            "People are often uncomfortable when sitting on my lap.",
+            "My genital has poked people in the grocery store"
         ],
         [//2
-            "Elections are an effective way of showing government approval",
-            "Democracy is the worst form of government, except for all the others we've tried.",
-            "Each person should have one vote, each equal to every other"
+            "My genital has similar properties to a drum",
+            "Most things cannot bend my genital.",
+            "My genital feels sturdy"
         ],
         [//1
-            "Democracy is more than a decision-making process.",
-            "People should have the power to choose their leaders",
-            "The government must be by the people for the people"
+            "My genital holds its shape well.",
         ],
         [//-1
             "The stronger the leadership, the better.",
