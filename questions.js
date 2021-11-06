@@ -6,40 +6,40 @@ questions =
             "Things have gotten caught in my genital."
         ],
         [//3
-            "State and local laws should have precedence over national laws",
-            "The national government can't understand what the people need.",
-            "People should hold more loyalty to their local state than their country."
+            "My genital is mostly inner",
+            "You could yell into my genital.",
+            "My genital could hold water."
         ],
         [//2
-            "Local governments should have more power than they currently do",
-            "Laws should vary from area to area and culture to culture within a country.",
-            "It's a good idea to test a policy in one state rather than implementing it nationwide right away"
+            "My genital does not pertrude very much.",
+            "I have a vagina.",
+            "My genital would best be measured in depth"
             
         ],
         [//1
-            "Local governments can understand their citizens better than the national government could",
-            "Local governments address issues that the national government would never touch without them",
-            "Local governments give each region good representation of their views"
+            "I usually pee sitting down",
+            "Given I was upside down, I could balence something between my legs",
+            "I cannot get my genital into a hole."
         ],
         [//-1
-            "A country cannot function without a national government",
-            "The national government protects minorities better than some local governments do.",
-            "There are many issues that it does not make sense to address at a local level"
+            "My genital would best be measured in length",
+            "If you were running your hands along my pelvis, there would be a noticable bump.",
+            "I have XY chromosomes"
         ],
         [//-2
-            "The national government needs more power",
-            "Subdivisions should not be able to exempt from national laws",
-            "People should think of themselves as citizens of their nation rather than their state"
+            "My genital would best be measured in length",
+            "I almost never pee sitting down",
+            "I can fit my genital into a hole"
         ],
         [//-3
-            "A group of states without a strong national government is merely an alliance, not a nation",
-            "A national government must be strong to adequately protect all its citizens",
-            "States cannot function without a strong national government"
+            "I can see my gential when I look down naked",
+            "I have a penis",
+            "My genital could knock something over"
         ],
         [//-4
-            "There is no need for local or state governments",
-            "Laws should be completely consistent within all regions of a nation",
-            "Strong states weaken a nation"
+            "I never pee sitting down",
+            "When I look down, I can't see passed my genital",
+            "I find it difficult to put pants on"
         ]],[//Democratic-Authoritarian`
         [//4
             "Direct democracy is the best form of government",
