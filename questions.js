@@ -58,31 +58,33 @@ questions =
         ],
         [//1
             "My genital holds its shape well.",
+            "Most people don't tap on my genital.",
+            "My genital is not soft."
         ],
         [//-1
-            "The stronger the leadership, the better.",
-            "Popular opinion is not always right",
-            "Leaders must be strong or a nation will suffer"
+            "The softer the genital, the better.",
+            "My genital can be proded, and will sink.",
+            "My genital is flexible."
         ],
         [//-2
-             "A hierarchical state is best.",
-            "Society could not function without leaders and followers",
-             "Democracy makes it too easy for a majority to further itself at the expense of minorities"
+             "My genital can be squeezed.",
+             "My genital is unnoticable unless you look for it.",
+             "My genital could be considered to be loose"
         ],
         [//-3
-            "The general populace makes poor decisions.",
-             "It is important that we further my group's goals above all others.",
-            "Public opinion swings too much with emotional events to be useful for policy making"
+            "Things bounce off my genital",
+            "You could feel me up and not notice a prominent genital due to how squishy it is.",
+            "My genital could easly be pinched"
         ],
         [//-4
-            "Elections are a waste of resources",
-            "Catering to popular opinion is detrimental to a nation",
-            "A nation must obey its leadership without question"
-        ]],[//Globalist-Isolationist
+            "My genital has trampoline-like qualities",
+            "People often beg to squish my genital.",
+            "My genital jiggles when you hit it"
+        ]],[//Slippery/grippy
         [//4
-            "A united world government would be beneficial to mankind.",
-            "We are first and foremost citizens of Earth",
-            "In order for humanity to survive, we must get past having separate nations"
+            "People have slipped on my genital",
+            "My genital could be used to lubricate somthing.",
+            "My genital cannot be grabbed at all"
         ],
         [//3
             "The United Nations needs more power",
