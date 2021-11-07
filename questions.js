@@ -87,9 +87,9 @@ questions =
             "My genital cannot be grabbed at all"
         ],
         [//3
-            "The United Nations needs more power",
-            "The United Nations should have a military to enforce its resolutions",
-            "Having independent nations with the risk of global conflict creates a large threat to humanity as a whole"
+            "My genital could leave a trail",
+            "My genital is prone to having stuff fall off it",
+            "Having a genital means cleaning up slip hazards"
         ],
         [//2
             "I support regional unions, such as the European Union.",
@@ -97,7 +97,7 @@ questions =
             "Nations fighting among each other gets in the way of progress"
         ],
         [//1
-            "International trade is generally beneficial.",
+            ".",
             "Alliances are important for protecting a nation",
             "Nations should cooperate whenever it benefits them both"
         ],
